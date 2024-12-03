@@ -39,7 +39,7 @@ In order to run the application You need to have the following software installe
 
 
 # Authors
-Developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish) @timomer83(https://github.com/timomer83).
+Developed by @corvert(https://github.com/corvert) @doveish(https://github.com/doveish).
 
 # Found a bug or want to add a feature
 <p align="justify"> 
