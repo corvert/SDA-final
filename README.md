@@ -16,13 +16,13 @@ please welcome our Stock Portfolio Tracker!
 
 # STOCK PORTFOLIO TRACKER
 
-![Front](https://github.com/doveish/SDAFinalProject/blob/6314f2213c1df1c425a3ebebe4833298ce9c871e/Images/Front.png)
+![Front](https://github.com/corvert/SDA-final/blob/main/img/Front.png)
 
 # MySQL Database structure
-![Database](https://github.com/doveish/SDAFinalProject/blob/e0c51479b3d80d2fc26829bc704f2cd4e42bdd4b/Images/Database%20C.png)
+![Database](https://github.com/corvert/SDA-final/blob/main/img/Database%20C.png)
 
 # Project flowchart
-![Flowchart](https://github.com/doveish/SDAFinalProject/blob/a99e7c85ce5033cfe7f298769536a3a3dbae100e/Images/Flowchart.png)
+![Flowchart](https://github.com/corvert/SDA-final/blob/main/img/Flowchart.png)
 
 # Required software and TO-DO
 In order to run the application You need to have the following software installed:
@@ -35,7 +35,7 @@ In order to run the application You need to have the following software installe
 * **Angular** - go to the directory folder of the Front-End via VS Code console and run the project with "npm start" or "ng serve" command.
 * **Browser** - we used the URL "localhost/4200" for testing
 
-  <p align="center"><b>Please get the project files Front-End in the "frontend" branch Back-End from "master" branch of this repository.</b></p>
+
 
 
 # Authors
